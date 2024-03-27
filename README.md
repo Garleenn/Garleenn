@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Garleenn
 - 👀 I’m interested in programming on JavaScript!
 - 🌱 I’m currently learning Vue.js
-- ⚡ Fun fact: bed English)
