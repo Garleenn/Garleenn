@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Garleenn
-- 👀 I’m interested in programming on JavaScript!
-- 🌱 I’m currently learning Vue.js
+- 👀 I’m interested in programming on JavaScript and Vue.js!
+- 🌱 I’m currently learning Node.js and MongoDB)
