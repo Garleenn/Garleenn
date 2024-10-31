@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Garleenn
-- 👀 I’m interested in programming on JavaScript, Vue.js, React, Node.js and MongoDB!
+- 👀 I’m interested in programming on JavaScript, TypeScript, Vue.js, React, Node.js, MongoDB, postgreSQL!
 - 🌱 I’m currently learning React and Next.js)
 - 📫 How to reach me: Discord: @garleenn
 
